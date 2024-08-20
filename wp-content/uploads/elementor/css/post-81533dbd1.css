@@ -1,0 +1,37 @@
+.elementor-81533 .elementor-element.elementor-element-2451fe4{padding:2px 0px 30px 0px;}.elementor-81533 .elementor-element.elementor-element-dda10e1:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-81533 .elementor-element.elementor-element-dda10e1 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-primary );}.elementor-81533 .elementor-element.elementor-element-dda10e1 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:25px 25px 25px 25px;--e-column-margin-right:25px;--e-column-margin-left:25px;padding:50px 50px 50px 50px;}.elementor-81533 .elementor-element.elementor-element-dda10e1 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-81533 .elementor-element.elementor-element-8c1476e{text-align:center;}.elementor-81533 .elementor-element.elementor-element-8c1476e .elementor-heading-title{color:var( --e-global-color-secondary );font-family:"Agrandir", Sans-serif;font-size:30px;font-weight:600;line-height:1.2em;}.elementor-81533 .elementor-element.elementor-element-bdbd87d{text-align:justify;color:var( --e-global-color-2be8bc3 );}.elementor-81533 .elementor-element.elementor-element-bdbd87d > .elementor-widget-container{padding:20px 0px 0px 0px;}.elementor-81533 .elementor-element.elementor-element-743ee20{padding:30px 0px 60px 0px;}.elementor-81533 .elementor-element.elementor-element-aede6d2{text-align:center;}.elementor-81533 .elementor-element.elementor-element-19ed21f{text-align:center;font-family:"Agrandir", Sans-serif;font-size:20px;font-weight:400;}.elementor-81533 .elementor-element.elementor-element-c0efed9 img{width:42%;}.elementor-81533 .elementor-element.elementor-element-53ba228{text-align:center;color:var( --e-global-color-ae6d5ac );}.elementor-81533 .elementor-element.elementor-element-53ba228 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-81533 .elementor-element.elementor-element-fea7faf img{width:24%;}.elementor-81533 .elementor-element.elementor-element-19173e6{text-align:center;color:var( --e-global-color-ae6d5ac );}.elementor-81533 .elementor-element.elementor-element-19173e6 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-81533 .elementor-element.elementor-element-2edbd19 img{width:30%;}.elementor-81533 .elementor-element.elementor-element-ea6ff07{text-align:center;color:var( --e-global-color-ae6d5ac );}.elementor-81533 .elementor-element.elementor-element-ea6ff07 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-81533 .elementor-element.elementor-element-900c30a img{width:35%;}.elementor-81533 .elementor-element.elementor-element-aa65f82{text-align:center;color:var( --e-global-color-ae6d5ac );}.elementor-81533 .elementor-element.elementor-element-aa65f82 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-81533 .elementor-element.elementor-element-c7157e3{text-align:center;}.elementor-81533 .elementor-element.elementor-element-30be73d{text-align:center;}.elementor-81533 .elementor-element.elementor-element-62140ae:not(.elementor-motion-effects-element-type-background), .elementor-81533 .elementor-element.elementor-element-62140ae > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-primary );}.elementor-81533 .elementor-element.elementor-element-62140ae{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 0px 60px 0px;}.elementor-81533 .elementor-element.elementor-element-62140ae > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-81533 .elementor-element.elementor-element-e3b89d5.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-81533 .elementor-element.elementor-element-e3b89d5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-81533 .elementor-element.elementor-element-57fbb63{color:var( --e-global-color-2be8bc3 );}@media(max-width:767px){.elementor-81533 .elementor-element.elementor-element-8c1476e .elementor-heading-title{font-size:25px;line-height:1.1em;}.elementor-81533 .elementor-element.elementor-element-19ed21f{font-size:15px;}.elementor-81533 .elementor-element.elementor-element-2edbd19 img{width:50%;}.elementor-81533 .elementor-element.elementor-element-62140ae{padding:30px 30px 30px 30px;}.elementor-81533 .elementor-element.elementor-element-57fbb63{text-align:justify;}.elementor-81533 .elementor-element.elementor-element-57fbb63 > .elementor-widget-container{margin:30px 0px 0px 0px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../polices/Agrandir-Regular.eot');
+	src: url('../../polices/Agrandir-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-Regular.woff2') format('woff2'),
+		url('../../polices/Agrandir-Regular.woff') format('woff'),
+		url('../../polices/Agrandir-Regular.ttf') format('truetype'),
+		url('../../polices/Agrandir-Regular.svg#Agrandir') format('svg');
+}
+@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../polices/Agrandir-TextBold.eot');
+	src: url('../../polices/Agrandir-TextBoldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-TextBold.woff2') format('woff2'),
+		url('../../2021/04/Agrandir-Regular.woff') format('woff'),
+		url('../../polices/Agrandir-TextBold.ttf') format('truetype'),
+		url('../../polices/Agrandir-TextBold.svg#Agrandir') format('svg');
+}
+@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../polices/Agrandir-Narrow.eot');
+	src: url('../../polices/Agrandir-Narrowd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-Narrow.woff2') format('woff2'),
+		url('../../polices/Agrandir-Narrow.woff') format('woff'),
+		url('../../polices/Agrandir-Narrow.ttf') format('truetype'),
+		url('../../polices/Agrandir-Narrow.svg#Agrandir') format('svg');
+}
+/* End Custom Fonts CSS */

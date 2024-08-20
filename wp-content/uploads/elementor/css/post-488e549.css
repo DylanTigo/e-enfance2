@@ -1,0 +1,49 @@
+.elementor-488 .elementor-element.elementor-element-130feef{padding:3% 3% 3% 3%;}.elementor-488 .elementor-element.elementor-element-5aa2688 .elementor-menu-toggle{margin:0 auto;}.elementor-488 .elementor-element.elementor-element-5aa2688 .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-488 .elementor-element.elementor-element-5aa2688 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-ae6d5ac );fill:var( --e-global-color-ae6d5ac );}.elementor-488 .elementor-element.elementor-element-5aa2688 > .elementor-widget-container{padding:15px 15px 15px 15px;border-radius:25px 25px 25px 25px;box-shadow:0px 0px 10px 0px rgba(0,0,0,0.5);}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.49 * 100% );}.elementor-488 .elementor-element.elementor-element-fecaad5:after{content:"0.49";}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__meta-data span + span:before{content:"•";}.elementor-488 .elementor-element.elementor-element-fecaad5{--grid-column-gap:30px;--grid-row-gap:35px;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__text{margin-top:20px;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__badge{right:0;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__card .elementor-post__badge{background-color:var( --e-global-color-accent );color:var( --e-global-color-2be8bc3 );margin:20px;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__title, .elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__title a{color:var( --e-global-color-ae6d5ac );font-family:"Agrandir", Sans-serif;font-size:18px;font-weight:600;line-height:1.2em;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__meta-data{color:var( --e-global-color-6336ffe );font-family:"Agrandir", Sans-serif;font-size:14px;font-weight:bold;text-transform:uppercase;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__read-more{color:var( --e-global-color-primary );}.elementor-488 .elementor-element.elementor-element-fecaad5 a.elementor-post__read-more{font-family:"Agrandir", Sans-serif;font-size:15px;font-weight:800;text-transform:none;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination{text-align:center;margin-top:30px;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination .page-numbers:not(.dots){color:var( --e-global-color-ae6d5ac );}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination a.page-numbers:hover{color:var( --e-global-color-accent );}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination .page-numbers.current{color:var( --e-global-color-primary );}body:not(.rtl) .elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}.elementor-488 .elementor-element.elementor-element-fecaad5 > .elementor-widget-container{padding:50px 0px 0px 0px;}@media(max-width:1280px){.elementor-488 .elementor-element.elementor-element-5aa2688 .elementor-nav-menu .elementor-item{font-size:var( --e-global-typography-text-font-size );}}@media(max-width:1024px){.elementor-488 .elementor-element.elementor-element-5aa2688 .elementor-nav-menu .elementor-item{font-size:var( --e-global-typography-text-font-size );}}@media(max-width:767px){.elementor-488 .elementor-element.elementor-element-5aa2688 .elementor-nav-menu .elementor-item{font-size:var( --e-global-typography-text-font-size );}.elementor-488 .elementor-element.elementor-element-5aa2688 .elementor-nav-menu--dropdown a{padding-left:10px;padding-right:10px;padding-top:10px;padding-bottom:10px;}.elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-488 .elementor-element.elementor-element-fecaad5:after{content:"0.5";}.elementor-488 .elementor-element.elementor-element-fecaad5 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for nav-menu, class: .elementor-element-5aa2688 */.elementor-488 .elementor-element.elementor-element-5aa2688{
+    width:fit-content;
+    margin:0 auto;
+}/* End custom CSS */
+/* Start custom CSS for posts, class: .elementor-element-fecaad5 */@media (max-width: 767px) { /* 767px est une largeur couramment utilisée pour les mobiles */
+    .elementor-488 .elementor-element.elementor-element-fecaad5 .elementor-post__thumbnail, .elementor-488 .elementor-element.elementor-element-fecaad5 img {
+        width: 100%!important;
+        height: 175px!important;
+        object-fit: cover!important;
+        padding:0!important;
+    }
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../polices/Agrandir-Regular.eot');
+	src: url('../../polices/Agrandir-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-Regular.woff2') format('woff2'),
+		url('../../polices/Agrandir-Regular.woff') format('woff'),
+		url('../../polices/Agrandir-Regular.ttf') format('truetype'),
+		url('../../polices/Agrandir-Regular.svg#Agrandir') format('svg');
+}
+@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../polices/Agrandir-TextBold.eot');
+	src: url('../../polices/Agrandir-TextBoldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-TextBold.woff2') format('woff2'),
+		url('../../2021/04/Agrandir-Regular.woff') format('woff'),
+		url('../../polices/Agrandir-TextBold.ttf') format('truetype'),
+		url('../../polices/Agrandir-TextBold.svg#Agrandir') format('svg');
+}
+@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../polices/Agrandir-Narrow.eot');
+	src: url('../../polices/Agrandir-Narrowd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-Narrow.woff2') format('woff2'),
+		url('../../polices/Agrandir-Narrow.woff') format('woff'),
+		url('../../polices/Agrandir-Narrow.ttf') format('truetype'),
+		url('../../polices/Agrandir-Narrow.svg#Agrandir') format('svg');
+}
+/* End Custom Fonts CSS */

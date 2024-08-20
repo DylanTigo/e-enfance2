@@ -1,0 +1,41 @@
+.elementor-8829 .elementor-element.elementor-element-6201426 > .elementor-background-overlay{background-color:var( --e-global-color-primary );opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-8829 .elementor-element.elementor-element-6201426{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:6% 0% 6% 0%;}.elementor-8829 .elementor-element.elementor-element-6201426 > .elementor-shape-bottom svg{width:calc(129% + 1.3px);height:41px;}.elementor-8829 .elementor-element.elementor-element-45c17eb{text-align:center;}.elementor-8829 .elementor-element.elementor-element-45c17eb .elementor-heading-title{color:var( --e-global-color-2be8bc3 );}.elementor-8829 .elementor-element.elementor-element-45c17eb > .elementor-widget-container{padding:0% 0% 0% 0%;}.elementor-8829 .elementor-element.elementor-element-2c10542{text-align:center;}.elementor-8829 .elementor-element.elementor-element-2c10542 .elementor-heading-title{color:#FFFFFF;font-family:"Agrandir", Sans-serif;font-size:25px;font-weight:300;line-height:1.2em;}.elementor-8829 .elementor-element.elementor-element-2c10542 > .elementor-widget-container{padding:0% 0% 0% 0%;}.elementor-8829 .elementor-element.elementor-element-e24ac7b{padding:60px 0px 60px 0px;}.elementor-8829 .elementor-element.elementor-element-5a26543 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-8829 .elementor-element.elementor-element-8ecdfc6 img{width:400px;border-radius:15px 15px 15px 15px;}.elementor-8829 .elementor-element.elementor-element-8ecdfc6 > .elementor-widget-container{padding:30px 30px 30px 30px;border-radius:25px 25px 25px 25px;box-shadow:0px 0px 10px 0px rgba(0,0,0,0.5);}.elementor-8829 .elementor-element.elementor-element-4d79a93{text-align:center;}.elementor-8829 .elementor-element.elementor-element-4d79a93 > .elementor-widget-container{padding:30px 0px 0px 0px;}.elementor-8829 .elementor-element.elementor-element-86a2fc8{text-align:center;}.elementor-8829 .elementor-element.elementor-element-86a2fc8 img{width:45px;}.elementor-8829 .elementor-element.elementor-element-0d8fd18{text-align:center;color:var( --e-global-color-ae6d5ac );}.elementor-8829 .elementor-element.elementor-element-0d8fd18 > .elementor-widget-container{margin:0% 0% 0% 0%;padding:0px 0px 0px 0px;}@media(max-width:767px){.elementor-8829 .elementor-element.elementor-element-6201426 > .elementor-shape-bottom svg{width:calc(244% + 1.3px);height:19px;}.elementor-8829 .elementor-element.elementor-element-6201426{padding:10% 0% 10% 0%;}.elementor-8829 .elementor-element.elementor-element-2c10542 .elementor-heading-title{font-size:16px;}.elementor-8829 .elementor-element.elementor-element-e24ac7b{padding:30px 15px 30px 15px;}.elementor-8829 .elementor-element.elementor-element-8ecdfc6{text-align:center;}.elementor-8829 .elementor-element.elementor-element-0d8fd18{text-align:justify;}}/* Start custom CSS for theme-post-featured-image, class: .elementor-element-8ecdfc6 */.elementor-8829 .elementor-element.elementor-element-8ecdfc6{
+    width:fit-content;
+    margin:0 auto;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../polices/Agrandir-Regular.eot');
+	src: url('../../polices/Agrandir-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-Regular.woff2') format('woff2'),
+		url('../../polices/Agrandir-Regular.woff') format('woff'),
+		url('../../polices/Agrandir-Regular.ttf') format('truetype'),
+		url('../../polices/Agrandir-Regular.svg#Agrandir') format('svg');
+}
+@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../polices/Agrandir-TextBold.eot');
+	src: url('../../polices/Agrandir-TextBoldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-TextBold.woff2') format('woff2'),
+		url('../../2021/04/Agrandir-Regular.woff') format('woff'),
+		url('../../polices/Agrandir-TextBold.ttf') format('truetype'),
+		url('../../polices/Agrandir-TextBold.svg#Agrandir') format('svg');
+}
+@font-face {
+	font-family: 'Agrandir';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../polices/Agrandir-Narrow.eot');
+	src: url('../../polices/Agrandir-Narrowd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../polices/Agrandir-Narrow.woff2') format('woff2'),
+		url('../../polices/Agrandir-Narrow.woff') format('woff'),
+		url('../../polices/Agrandir-Narrow.ttf') format('truetype'),
+		url('../../polices/Agrandir-Narrow.svg#Agrandir') format('svg');
+}
+/* End Custom Fonts CSS */
